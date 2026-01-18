@@ -1,1 +1,13 @@
-
+bank_code,bank_name,nse_ticker,category,data_years,website
+BOB,Bank of Baroda,BARODA,Large PSU,25,https://www.bankofbaroda.in
+PNB,Punjab National Bank,PNB,Large PSU,20,https://www.pnbindia.in
+SBI,State Bank of India,SBIN,Large PSU,25,https://www.sbi.co.in
+AXIS,Axis Bank,AXISBANK,Large Private,19,https://www.axisbank.com
+HDFC,HDFC Bank,HDFCBANK,Large Private,25,https://www.hdfcbank.com
+ICICI,ICICI Bank,ICICIBANK,Large Private,25,https://www.icicibank.com
+INDUSIND,IndusInd Bank,INDUSINDBK,Large Private,20,https://www.indusindbank.com
+KOTAK,Kotak Mahindra Bank,KOTAKBANK,Large Private,23,https://www.kotak.com
+CAN,Canara Bank,CANBK,Mid-size PSU,20,https://www.canarabank.com
+UBI,Union Bank of India,UNIONBANK,Mid-size PSU,20,https://www.unionbankofindia.co.in
+AU,AU Small Finance Bank,AUBANK,Small Finance,9,https://www.aubank.in
+BANDHAN,Bandhan Bank,BANDHANBNK,Small Finance,8,https://www.bandhanbank.com
